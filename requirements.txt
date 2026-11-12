@@ -1,0 +1,6 @@
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+thefuzz==0.22.1
+PyYAML==6.0.1
+pyaudio==0.2.14
+google-genai>=0.1.1
